@@ -1,4 +1,5 @@
 # MikeyPR. Разгром микролимитов.
+https://www.youtube.com/watch?v=rGJWOhghTCc&list=PLmFb5ycqTFBHNaYVNyhEYzyAUCP1jn0Uw
 
 ### 1. Ошибки новичков в покере
 1. Много фолдить при защите на ББ на префлопе из-за высокого рейка и нитовых оппонентов
